@@ -1,5 +1,5 @@
 
-# Signal Processing and Beamforming Simulator
+# Image Mixer and Beamforming Simulator
 
 ## Overview
 This project includes two main parts: 
